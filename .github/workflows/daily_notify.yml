@@ -1,0 +1,29 @@
+name: 為替カレンダー通知
+
+on:
+  schedule:
+    # 毎日 UTC 22:00 = 日本時間 翌朝7:00 に実行
+    # 時間を変えたい場合はこの分・時の数字を書き換えてください（UTC基準）
+    - cron: "0 22 * * *"
+  workflow_dispatch: {}
+    # ↑ Actionsタブから手動実行するためのトリガー（テスト用）
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch calendar and send notification
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python fetch_and_notify.py
