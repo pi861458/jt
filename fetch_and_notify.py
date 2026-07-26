@@ -76,10 +76,10 @@ GOLD_KEYWORDS = [
 ]
 GOLD_CURRENCIES = {"USD"}  # ゴールドはドル建てのためUSD指標が最重要
 
-IMPACT_EMOJI = {
-    "High": "🔴",
-    "Medium": "🟡",
-    "Low": "⚪",
+IMPACT_STARS = {
+    "High": "⭐⭐⭐",
+    "Medium": "⭐⭐",
+    "Low": "⭐",
     "Holiday": "🏖️",
 }
 
@@ -165,12 +165,16 @@ def build_message(today_events):
                 extra = f"（予想:{forecast or '-'} / 前回:{previous or '-'}）"
             lines.append(f"　{time_str} {name} {extra}")
         lines.append("")
+    else:
+        lines.append("✨ 本日、ゴールドに影響しそうな指標はありません")
+        lines.append("")
 
-    # --- 重要度別の全体一覧 ---
-    def section(title, items):
+    # --- 重要度別の全体一覧（⭐の数で重要度を表現） ---
+    def section(items):
         if not items:
             return
-        lines.append(title)
+        stars = IMPACT_STARS.get(items[0][1].get("impact"), "")
+        lines.append(f"{stars}")
         for dt_, e in items:
             time_str = dt_.strftime("%H:%M")
             country = e.get("country", "")
@@ -180,13 +184,13 @@ def build_message(today_events):
             extra = ""
             if forecast or previous:
                 extra = f"（予想:{forecast or '-'} / 前回:{previous or '-'}）"
-            star = "★ " if is_gold_relevant(e) else "　"
+            star = "✨ " if is_gold_relevant(e) else "　"
             lines.append(f"{star}{time_str} [{country}] {name} {extra}")
         lines.append("")
 
-    section("🔴 重要指標（High）", high)
-    section("🟡 中重要度（Medium）", medium)
-    section("⚪ 低重要度（Low）", low)
+    section(high)
+    section(medium)
+    section(low)
 
     return "\n".join(lines).strip()
 
