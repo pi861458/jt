@@ -3,8 +3,10 @@
 Forex Factoryの週次JSONフィードから当日分の経済指標・休場情報を取得し、
 日本語に翻訳した上で、ゴールド(XAUUSD)に影響が大きい指標を目立たせて
 ntfy経由でiPhoneに通知する。
+あわせて今週分を events.json に書き出す（ウィジェット用）。
 """
 
+import json
 import os
 import sys
 from datetime import datetime, timezone, timedelta
@@ -17,8 +19,6 @@ NTFY_TOPIC = os.environ.get("NTFY_TOPIC")
 JST = timezone(timedelta(hours=9))
 
 # --- 指標名の日本語訳辞書 ---
-# キーはFFの英語表記（小文字化・前後空白除去して比較）。
-# 完全一致しないものは元の英語名のまま表示する。
 TRANSLATIONS = {
     "non-farm employment change": "非農業部門雇用者数（NFP）",
     "unemployment rate": "失業率",
@@ -66,7 +66,6 @@ TRANSLATIONS = {
 }
 
 # --- ゴールド(XAUUSD)への影響が大きい指標のキーワード ---
-# 米国のインフレ・雇用・金利・地政学関連が中心。
 GOLD_KEYWORDS = [
     "non-farm", "nfp", "unemployment", "cpi", "ppi", "pce",
     "fomc", "federal funds", "fed chair", "powell", "rate decision",
@@ -74,7 +73,7 @@ GOLD_KEYWORDS = [
     "retail sales", "jobless claims", "jolts", "adp",
     "consumer sentiment", "consumer confidence",
 ]
-GOLD_CURRENCIES = {"USD"}  # ゴールドはドル建てのためUSD指標が最重要
+GOLD_CURRENCIES = {"USD"}
 
 IMPACT_STARS = {
     "High": "⭐⭐⭐",
@@ -130,6 +129,34 @@ def filter_today(events):
     return result
 
 
+def export_json(events, path="events.json"):
+    """今週分の全イベントをウィジェット用にJSONで書き出す"""
+    out = []
+    for e in events:
+        date_str = e.get("date")
+        if not date_str:
+            continue
+        try:
+            dt = to_jst(date_str)
+        except (ValueError, TypeError):
+            continue
+        out.append({
+            "time": dt.isoformat(),
+            "country": e.get("country", ""),
+            "title": translate(e.get("title", "")),
+            "impact": e.get("impact", ""),
+            "forecast": e.get("forecast", ""),
+            "previous": e.get("previous", ""),
+            "gold": is_gold_relevant(e),
+        })
+    out.sort(key=lambda x: x["time"])
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(
+            {"updated": datetime.now(JST).isoformat(), "events": out},
+            f, ensure_ascii=False, indent=1,
+        )
+
+
 def build_message(today_events):
     if not today_events:
         return "本日は主要な経済指標・イベントの登録がありません。"
@@ -169,7 +196,7 @@ def build_message(today_events):
         lines.append("✨ 本日、ゴールドに影響しそうな指標はありません")
         lines.append("")
 
-    # --- 重要度別の全体一覧（⭐の数で重要度を表現） ---
+    # --- 重要度別の全体一覧 ---
     def section(items):
         if not items:
             return
@@ -220,6 +247,8 @@ def main():
     except Exception as e:
         send_ntfy(f"データ取得に失敗しました: {e}", title="⚠️ 為替カレンダー取得エラー")
         raise
+
+    export_json(events)
 
     today_events = filter_today(events)
     message = build_message(today_events)
