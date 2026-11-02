@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-01T23:41:11.696111+09:00",
+ "updated": "2026-11-02T10:10:31.009057+09:00",
  "events": [
   {
    "time": "2026-11-01T16:00:00+09:00",
    "country": "CAD",
-   "title": "Daylight Saving Time Shift",
+   "title": "夏時間切替",
    "impact": "Holiday",
    "forecast": "",
    "previous": "",
@@ -13,7 +13,7 @@
   {
    "time": "2026-11-01T16:00:00+09:00",
    "country": "USD",
-   "title": "Daylight Saving Time Shift",
+   "title": "夏時間切替",
    "impact": "Holiday",
    "forecast": "",
    "previous": "",
@@ -44,15 +44,6 @@
    "impact": "Low",
    "forecast": "53.3",
    "previous": "53.3",
-   "gold": false
-  },
-  {
-   "time": "2026-11-02T09:45:00+09:00",
-   "country": "AUD",
-   "title": "ANZ Job Advertisements m/m",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2.2%",
    "gold": false
   },
   {
@@ -186,7 +177,7 @@
    "country": "USD",
    "title": "ISM製造業景況指数",
    "impact": "Medium",
-   "forecast": "54.7",
+   "forecast": "54.5",
    "previous": "54.5",
    "gold": true
   },
@@ -195,7 +186,7 @@
    "country": "USD",
    "title": "Construction Spending m/m",
    "impact": "Low",
-   "forecast": "0.3%",
+   "forecast": "0.4%",
    "previous": "0.9%",
    "gold": false
   },
@@ -229,7 +220,7 @@
   {
    "time": "2026-11-03T09:00:00+09:00",
    "country": "JPY",
-   "title": "Bank Holiday",
+   "title": "休場",
    "impact": "Holiday",
    "forecast": "",
    "previous": "",
@@ -751,7 +742,7 @@
   {
    "time": "2026-11-05T22:30:00+09:00",
    "country": "USD",
-   "title": "Unemployment Claims",
+   "title": "新規失業保険申請件数",
    "impact": "Medium",
    "forecast": "197K",
    "previous": "194K",
@@ -994,7 +985,7 @@
   {
    "time": "2026-11-07T00:00:00+09:00",
    "country": "USD",
-   "title": "Prelim UoM Consumer Sentiment",
+   "title": "ミシガン大学消費者信頼感指数（速報）",
    "impact": "Medium",
    "forecast": "47.8",
    "previous": "46.3",
