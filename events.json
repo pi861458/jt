@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T10:10:31.009057+09:00",
+ "updated": "2026-11-03T12:14:17.689136+09:00",
  "events": [
   {
    "time": "2026-11-01T16:00:00+09:00",
@@ -74,7 +74,7 @@
    "gold": false
   },
   {
-   "time": "2026-11-02T16:30:00+09:00",
+   "time": "2026-11-02T16:33:00+09:00",
    "country": "CHF",
    "title": "Retail Sales y/y",
    "impact": "Low",
@@ -200,7 +200,7 @@
    "gold": false
   },
   {
-   "time": "2026-11-03T04:03:00+09:00",
+   "time": "2026-11-03T04:00:00+09:00",
    "country": "USD",
    "title": "Loan Officer Survey",
    "impact": "Low",
@@ -294,7 +294,7 @@
    "country": "USD",
    "title": "JOLTS求人件数",
    "impact": "Medium",
-   "forecast": "7.11M",
+   "forecast": "7.15M",
    "previous": "7.08M",
    "gold": true
   },
@@ -321,7 +321,7 @@
    "country": "USD",
    "title": "Omdia Total Vehicle Sales",
    "impact": "Low",
-   "forecast": "15.9M",
+   "forecast": "15.8M",
    "previous": "16.0M",
    "gold": false
   },
@@ -429,7 +429,7 @@
    "country": "CNY",
    "title": "RatingDog Services PMI",
    "impact": "Low",
-   "forecast": "51.5",
+   "forecast": "51.7",
    "previous": "51.6",
    "gold": false
   },
@@ -438,7 +438,7 @@
    "country": "EUR",
    "title": "Spanish Unemployment Change",
    "impact": "Low",
-   "forecast": "25.3K",
+   "forecast": "18.7K",
    "previous": "23.6K",
    "gold": false
   },
@@ -447,7 +447,7 @@
    "country": "EUR",
    "title": "Spanish Services PMI",
    "impact": "Low",
-   "forecast": "57.5",
+   "forecast": "57.6",
    "previous": "58.3",
    "gold": false
   },
@@ -456,7 +456,7 @@
    "country": "EUR",
    "title": "Italian Services PMI",
    "impact": "Low",
-   "forecast": "51.0",
+   "forecast": "51.4",
    "previous": "51.7",
    "gold": false
   },
@@ -519,7 +519,7 @@
    "country": "USD",
    "title": "ADP雇用統計",
    "impact": "Low",
-   "forecast": "68K",
+   "forecast": "67K",
    "previous": "90K",
    "gold": false
   },
@@ -528,7 +528,7 @@
    "country": "CAD",
    "title": "貿易収支",
    "impact": "Low",
-   "forecast": "3.8B",
+   "forecast": "4.8B",
    "previous": "4.2B",
    "gold": false
   },
@@ -555,7 +555,7 @@
    "country": "USD",
    "title": "ISM非製造業（サービス業）景況指数",
    "impact": "Medium",
-   "forecast": "54.9",
+   "forecast": "54.8",
    "previous": "54.9",
    "gold": true
   },
@@ -582,7 +582,7 @@
    "country": "AUD",
    "title": "Goods Trade Balance",
    "impact": "Low",
-   "forecast": "0.96B",
+   "forecast": "0.94B",
    "previous": "0.50B",
    "gold": false
   },
@@ -609,7 +609,7 @@
    "country": "EUR",
    "title": "German Factory Orders m/m",
    "impact": "Low",
-   "forecast": "4.9%",
+   "forecast": "4.6%",
    "previous": "-10.6%",
    "gold": false
   },
@@ -618,7 +618,7 @@
    "country": "EUR",
    "title": "French Industrial Production m/m",
    "impact": "Low",
-   "forecast": "0.4%",
+   "forecast": "0.3%",
    "previous": "-0.3%",
    "gold": false
   },
@@ -636,7 +636,7 @@
    "country": "EUR",
    "title": "Italian Retail Sales m/m",
    "impact": "Low",
-   "forecast": "0.1%",
+   "forecast": "0.0%",
    "previous": "0.3%",
    "gold": false
   },
@@ -645,7 +645,7 @@
    "country": "GBP",
    "title": "Construction PMI",
    "impact": "Low",
-   "forecast": "46.5",
+   "forecast": "46.4",
    "previous": "46.1",
    "gold": false
   },
@@ -654,7 +654,7 @@
    "country": "EUR",
    "title": "生産者物価指数（前月比）",
    "impact": "Low",
-   "forecast": "2.6%",
+   "forecast": "2.5%",
    "previous": "1.9%",
    "gold": false
   },
@@ -843,7 +843,7 @@
    "country": "EUR",
    "title": "German Industrial Production m/m",
    "impact": "Low",
-   "forecast": "-0.2%",
+   "forecast": "0.0%",
    "previous": "2.0%",
    "gold": false
   },
@@ -924,7 +924,7 @@
    "country": "CAD",
    "title": "Employment Change",
    "impact": "High",
-   "forecast": "14.5K",
+   "forecast": "14.6K",
    "previous": "-68.3K",
    "gold": false
   },
@@ -951,7 +951,7 @@
    "country": "USD",
    "title": "非農業部門雇用者数（NFP）",
    "impact": "High",
-   "forecast": "63K",
+   "forecast": "65K",
    "previous": "29K",
    "gold": true
   },
@@ -987,7 +987,7 @@
    "country": "USD",
    "title": "ミシガン大学消費者信頼感指数（速報）",
    "impact": "Medium",
-   "forecast": "47.8",
+   "forecast": "48.1",
    "previous": "46.3",
    "gold": true
   },
@@ -1023,7 +1023,7 @@
    "country": "USD",
    "title": "Consumer Credit m/m",
    "impact": "Low",
-   "forecast": "12.0B",
+   "forecast": "13.4B",
    "previous": "8.3B",
    "gold": false
   },
