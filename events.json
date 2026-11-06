@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T10:56:33.042106+09:00",
+ "updated": "2026-11-06T10:56:54.420782+09:00",
  "events": [
   {
    "time": "2026-11-01T16:00:00+09:00",
@@ -650,16 +650,7 @@
    "gold": false
   },
   {
-   "time": "2026-11-05T19:00:00+09:00",
-   "country": "EUR",
-   "title": "生産者物価指数（前月比）",
-   "impact": "Low",
-   "forecast": "2.5%",
-   "previous": "1.9%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-05T19:03:00+09:00",
+   "time": "2026-11-05T18:39:00+09:00",
    "country": "EUR",
    "title": "Spanish 10-y Bond Auction",
    "impact": "Low",
@@ -668,12 +659,21 @@
    "gold": false
   },
   {
-   "time": "2026-11-05T19:18:00+09:00",
+   "time": "2026-11-05T18:55:00+09:00",
    "country": "EUR",
    "title": "French 10-y Bond Auction",
    "impact": "Low",
    "forecast": "",
    "previous": "4.93|2.0",
+   "gold": false
+  },
+  {
+   "time": "2026-11-05T19:00:00+09:00",
+   "country": "EUR",
+   "title": "生産者物価指数（前月比）",
+   "impact": "Low",
+   "forecast": "2.5%",
+   "previous": "1.9%",
    "gold": false
   },
   {
