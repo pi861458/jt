@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T11:39:02.460742+09:00",
+ "updated": "2026-11-13T11:19:24.517700+09:00",
  "events": [
   {
    "time": "2026-11-09T07:30:00+09:00",
@@ -605,24 +605,6 @@
    "gold": false
   },
   {
-   "time": "2026-11-12T18:03:00+09:00",
-   "country": "CNY",
-   "title": "M2 Money Supply y/y",
-   "impact": "Low",
-   "forecast": "7.2%",
-   "previous": "7.2%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-12T18:03:00+09:00",
-   "country": "CNY",
-   "title": "New Loans",
-   "impact": "Low",
-   "forecast": "80B",
-   "previous": "1080B",
-   "gold": false
-  },
-  {
    "time": "2026-11-12T22:30:00+09:00",
    "country": "CAD",
    "title": "Building Permits m/m",
@@ -665,15 +647,6 @@
    "impact": "Low",
    "forecast": "",
    "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-13T00:00:00+09:00",
-   "country": "USD",
-   "title": "Mortgage Delinquencies",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "4.37%",
    "gold": false
   },
   {
@@ -839,6 +812,24 @@
    "gold": false
   },
   {
+   "time": "2026-11-13T19:03:00+09:00",
+   "country": "CNY",
+   "title": "M2 Money Supply y/y",
+   "impact": "Low",
+   "forecast": "7.2%",
+   "previous": "7.2%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-13T19:03:00+09:00",
+   "country": "CNY",
+   "title": "New Loans",
+   "impact": "Low",
+   "forecast": "80B",
+   "previous": "1080B",
+   "gold": false
+  },
+  {
    "time": "2026-11-13T22:30:00+09:00",
    "country": "CAD",
    "title": "Manufacturing Sales m/m",
@@ -899,6 +890,15 @@
    "impact": "Low",
    "forecast": "",
    "previous": "",
+   "gold": false
+  },
+  {
+   "time": "2026-11-14T00:15:00+09:00",
+   "country": "USD",
+   "title": "Mortgage Delinquencies",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "4.37%",
    "gold": false
   },
   {
