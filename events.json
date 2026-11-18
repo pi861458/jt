@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T13:17:02.074841+09:00",
+ "updated": "2026-11-18T12:15:54.603423+09:00",
  "events": [
   {
    "time": "2026-11-16T06:30:00+09:00",
@@ -434,6 +434,15 @@
    "gold": false
   },
   {
+   "time": "2026-11-17T23:29:00+09:00",
+   "country": "NZD",
+   "title": "GDT Price Index",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "3.0%",
+   "gold": false
+  },
+  {
    "time": "2026-11-17T23:30:00+09:00",
    "country": "USD",
    "title": "FOMC Member Hammack Speaks",
@@ -458,15 +467,6 @@
    "impact": "Low",
    "forecast": "29",
    "previous": "29",
-   "gold": false
-  },
-  {
-   "time": "2026-11-18T00:50:00+09:00",
-   "country": "NZD",
-   "title": "GDT Price Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.0%",
    "gold": false
   },
   {
@@ -506,7 +506,7 @@
    "gold": false
   },
   {
-   "time": "2026-11-18T08:30:00+09:00",
+   "time": "2026-11-18T08:39:00+09:00",
    "country": "AUD",
    "title": "MI Leading Index m/m",
    "impact": "Low",
@@ -690,7 +690,7 @@
    "country": "USD",
    "title": "Pending Home Sales m/m",
    "impact": "Low",
-   "forecast": "-2.1%",
+   "forecast": "-2.0%",
    "previous": "-7.3%",
    "gold": false
   },
@@ -699,7 +699,7 @@
    "country": "USD",
    "title": "原油在庫",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "0.4M",
    "previous": "4.7M",
    "gold": false
   },
@@ -852,7 +852,7 @@
    "country": "CAD",
    "title": "IPPI m/m",
    "impact": "Low",
-   "forecast": "1.2%",
+   "forecast": "0.4%",
    "previous": "2.0%",
    "gold": false
   },
@@ -861,7 +861,7 @@
    "country": "CAD",
    "title": "RMPI m/m",
    "impact": "Low",
-   "forecast": "2.0%",
+   "forecast": "0.9%",
    "previous": "4.8%",
    "gold": false
   },
@@ -879,7 +879,7 @@
    "country": "USD",
    "title": "フィラデルフィア連銀製造業景況指数",
    "impact": "Medium",
-   "forecast": "19.2",
+   "forecast": "20.6",
    "previous": "20.9",
    "gold": false
   },
@@ -888,7 +888,7 @@
    "country": "USD",
    "title": "新規失業保険申請件数",
    "impact": "Medium",
-   "forecast": "199K",
+   "forecast": "198K",
    "previous": "200K",
    "gold": true
   },
@@ -933,7 +933,7 @@
    "country": "USD",
    "title": "Natural Gas Storage",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "25B",
    "previous": "61B",
    "gold": false
   },
@@ -1104,7 +1104,7 @@
    "country": "USD",
    "title": "ミシガン大学消費者信頼感指数（確報）",
    "impact": "Medium",
-   "forecast": "52.1",
+   "forecast": "51.7",
    "previous": "51.0",
    "gold": true
   },
