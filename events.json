@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T12:15:54.603423+09:00",
+ "updated": "2026-11-19T11:54:14.391335+09:00",
  "events": [
   {
    "time": "2026-11-16T06:30:00+09:00",
@@ -587,15 +587,6 @@
    "gold": false
   },
   {
-   "time": "2026-11-18T16:02:00+09:00",
-   "country": "CNY",
-   "title": "Foreign Direct Investment ytd/y",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-4.3%",
-   "gold": false
-  },
-  {
    "time": "2026-11-18T16:30:00+09:00",
    "country": "GBP",
    "title": "イングランド銀行総裁 発言",
@@ -1043,6 +1034,15 @@
    "impact": "Low",
    "forecast": "18.0B",
    "previous": "24.5B",
+   "gold": false
+  },
+  {
+   "time": "2026-11-20T16:02:00+09:00",
+   "country": "CNY",
+   "title": "Foreign Direct Investment ytd/y",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "-4.3%",
    "gold": false
   },
   {
