@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T11:54:14.391335+09:00",
+ "updated": "2026-11-20T11:47:22.358935+09:00",
  "events": [
   {
    "time": "2026-11-16T06:30:00+09:00",
@@ -911,21 +911,21 @@
    "gold": false
   },
   {
-   "time": "2026-11-20T00:15:00+09:00",
-   "country": "USD",
-   "title": "Mortgage Delinquencies",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "4.37%",
-   "gold": false
-  },
-  {
    "time": "2026-11-20T00:30:00+09:00",
    "country": "USD",
    "title": "Natural Gas Storage",
    "impact": "Low",
    "forecast": "25B",
    "previous": "61B",
+   "gold": false
+  },
+  {
+   "time": "2026-11-20T00:46:00+09:00",
+   "country": "USD",
+   "title": "Mortgage Delinquencies",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "4.37%",
    "gold": false
   },
   {
