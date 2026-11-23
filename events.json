@@ -1,485 +1,161 @@
 {
- "updated": "2026-11-22T10:51:24.611591+09:00",
+ "updated": "2026-11-23T11:07:32.853165+09:00",
  "events": [
   {
-   "time": "2026-11-16T06:30:00+09:00",
+   "time": "2026-11-23T06:45:00+09:00",
    "country": "NZD",
-   "title": "BusinessNZ Services Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "50.9",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T08:50:00+09:00",
-   "country": "JPY",
-   "title": "Prelim GDP Price Index y/y",
-   "impact": "Low",
-   "forecast": "2.6%",
-   "previous": "2.6%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T08:50:00+09:00",
-   "country": "JPY",
-   "title": "GDP改定値（前期比）",
-   "impact": "Low",
-   "forecast": "0.1%",
-   "previous": "0.3%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T09:01:00+09:00",
-   "country": "GBP",
-   "title": "Rightmove HPI m/m",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "1.0%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T10:30:00+09:00",
-   "country": "CNY",
-   "title": "New Home Prices m/m",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-0.14%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T11:00:00+09:00",
-   "country": "CNY",
-   "title": "Fixed Asset Investment ytd/y",
-   "impact": "Low",
-   "forecast": "-7.0%",
-   "previous": "-7.2%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T11:00:00+09:00",
-   "country": "CNY",
-   "title": "Industrial Production y/y",
-   "impact": "Low",
-   "forecast": "5.3%",
-   "previous": "5.5%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T11:00:00+09:00",
-   "country": "CNY",
-   "title": "NBS Press Conference",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T11:00:00+09:00",
-   "country": "CNY",
-   "title": "Retail Sales y/y",
+   "title": "Core Retail Sales q/q",
    "impact": "Low",
    "forecast": "0.8%",
-   "previous": "1.1%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T11:00:00+09:00",
-   "country": "CNY",
-   "title": "失業率",
-   "impact": "Low",
-   "forecast": "5.2%",
-   "previous": "5.2%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T13:30:00+09:00",
-   "country": "JPY",
-   "title": "Revised Industrial Production m/m",
-   "impact": "Low",
-   "forecast": "2.2%",
-   "previous": "2.2%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T19:00:00+09:00",
-   "country": "EUR",
-   "title": "Industrial Production m/m",
-   "impact": "Low",
-   "forecast": "0.3%",
-   "previous": "-0.5%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T19:00:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Barr Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T22:30:00+09:00",
-   "country": "CAD",
-   "title": "消費者物価指数（前月比）",
-   "impact": "High",
-   "forecast": "0.3%",
-   "previous": "0.1%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T22:30:00+09:00",
-   "country": "CAD",
-   "title": "Median CPI y/y",
-   "impact": "High",
-   "forecast": "2.0%",
-   "previous": "1.9%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T22:30:00+09:00",
-   "country": "CAD",
-   "title": "Trimmed CPI y/y",
-   "impact": "High",
-   "forecast": "1.9%",
-   "previous": "1.8%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T22:30:00+09:00",
-   "country": "CAD",
-   "title": "Common CPI y/y",
-   "impact": "Medium",
-   "forecast": "2.5%",
-   "previous": "2.4%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T22:30:00+09:00",
-   "country": "CAD",
-   "title": "コアCPI（前月比）",
-   "impact": "Low",
-   "forecast": "0.2%",
-   "previous": "0.0%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T22:30:00+09:00",
-   "country": "USD",
-   "title": "NY連銀製造業景況指数",
-   "impact": "Low",
-   "forecast": "17.6",
-   "previous": "25.5",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T23:05:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Williams Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-16T23:45:00+09:00",
-   "country": "USD",
-   "title": "Cleveland Fed Inflation Expectations",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.3%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T02:00:00+09:00",
-   "country": "USD",
-   "title": "Fed Chairman Warsh Speaks",
-   "impact": "High",
-   "forecast": "",
-   "previous": "",
-   "gold": true
-  },
-  {
-   "time": "2026-11-17T04:15:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Hammack Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T05:00:00+09:00",
-   "country": "NZD",
-   "title": "RBNZ Financial Stability Report",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T06:45:00+09:00",
-   "country": "NZD",
-   "title": "FPI m/m",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.0%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T07:50:00+09:00",
-   "country": "AUD",
-   "title": "RBA Gov Bullock Speaks",
-   "impact": "High",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T08:10:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Barkin Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T08:30:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Goolsbee Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T09:00:00+09:00",
-   "country": "NZD",
-   "title": "RBNZ Gov Breman Speaks",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T09:30:00+09:00",
-   "country": "AUD",
-   "title": "Monetary Policy Meeting Minutes",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T11:00:00+09:00",
-   "country": "NZD",
-   "title": "Inflation Expectations q/q",
-   "impact": "High",
-   "forecast": "",
-   "previous": "2.34%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T13:30:00+09:00",
-   "country": "JPY",
-   "title": "Tertiary Industry Activity m/m",
-   "impact": "Low",
-   "forecast": "0.1%",
-   "previous": "-0.1%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T16:00:00+09:00",
-   "country": "GBP",
-   "title": "Average Earnings Index 3m/y",
-   "impact": "Medium",
-   "forecast": "3.5%",
-   "previous": "3.7%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T16:00:00+09:00",
-   "country": "GBP",
-   "title": "Claimant Count Change",
-   "impact": "Low",
-   "forecast": "25.4K",
-   "previous": "30.3K",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T16:00:00+09:00",
-   "country": "GBP",
-   "title": "HMRC Payrolls Change",
-   "impact": "Low",
-   "forecast": "9K",
-   "previous": "13K",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T16:00:00+09:00",
-   "country": "GBP",
-   "title": "失業率",
-   "impact": "Low",
-   "forecast": "4.7%",
-   "previous": "4.7%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T19:00:00+09:00",
-   "country": "EUR",
-   "title": "EU Economic Forecasts",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T19:00:00+09:00",
-   "country": "EUR",
-   "title": "ZEW Economic Sentiment",
-   "impact": "Low",
-   "forecast": "19.1",
-   "previous": "18.5",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T19:00:00+09:00",
-   "country": "EUR",
-   "title": "German ZEW Economic Sentiment",
-   "impact": "Low",
-   "forecast": "28.8",
-   "previous": "28.1",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T21:30:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Musalem Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T22:15:00+09:00",
-   "country": "CAD",
-   "title": "住宅着工件数",
-   "impact": "Low",
-   "forecast": "241K",
-   "previous": "249K",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T22:15:00+09:00",
-   "country": "USD",
-   "title": "ADP Weekly Employment Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "19.8K",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T22:30:00+09:00",
-   "country": "CAD",
-   "title": "Foreign Securities Purchases",
-   "impact": "Low",
-   "forecast": "14.85B",
-   "previous": "-17.31B",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T22:30:00+09:00",
-   "country": "USD",
-   "title": "コア小売売上高（前月比）",
-   "impact": "High",
-   "forecast": "0.4%",
-   "previous": "0.9%",
-   "gold": true
-  },
-  {
-   "time": "2026-11-17T22:30:00+09:00",
-   "country": "USD",
-   "title": "小売売上高（前月比）",
-   "impact": "High",
-   "forecast": "0.1%",
-   "previous": "0.8%",
-   "gold": true
-  },
-  {
-   "time": "2026-11-17T22:30:00+09:00",
-   "country": "USD",
-   "title": "Import Prices m/m",
-   "impact": "Low",
-   "forecast": "0.7%",
-   "previous": "1.1%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T23:10:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Waller Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T23:15:00+09:00",
-   "country": "USD",
-   "title": "Capacity Utilization Rate",
-   "impact": "Low",
-   "forecast": "76.8%",
-   "previous": "76.9%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-17T23:15:00+09:00",
-   "country": "USD",
-   "title": "Industrial Production m/m",
-   "impact": "Low",
-   "forecast": "0.0%",
    "previous": "0.7%",
    "gold": false
   },
   {
-   "time": "2026-11-17T23:29:00+09:00",
+   "time": "2026-11-23T06:45:00+09:00",
    "country": "NZD",
-   "title": "GDT Price Index",
+   "title": "Retail Sales q/q",
    "impact": "Low",
-   "forecast": "",
-   "previous": "3.0%",
+   "forecast": "0.5%",
+   "previous": "-0.5%",
    "gold": false
   },
   {
-   "time": "2026-11-17T23:30:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Hammack Speaks",
+   "time": "2026-11-23T07:00:00+09:00",
+   "country": "AUD",
+   "title": "Flash Manufacturing PMI",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "49.7",
+   "gold": false
+  },
+  {
+   "time": "2026-11-23T07:00:00+09:00",
+   "country": "AUD",
+   "title": "Flash Services PMI",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "47.8",
+   "gold": false
+  },
+  {
+   "time": "2026-11-23T09:00:00+09:00",
+   "country": "JPY",
+   "title": "休場",
+   "impact": "Holiday",
+   "forecast": "",
+   "previous": "",
+   "gold": false
+  },
+  {
+   "time": "2026-11-23T17:15:00+09:00",
+   "country": "EUR",
+   "title": "French Flash Manufacturing PMI",
+   "impact": "Medium",
+   "forecast": "49.8",
+   "previous": "49.3",
+   "gold": false
+  },
+  {
+   "time": "2026-11-23T17:15:00+09:00",
+   "country": "EUR",
+   "title": "French Flash Services PMI",
+   "impact": "Medium",
+   "forecast": "47.4",
+   "previous": "48.4",
+   "gold": false
+  },
+  {
+   "time": "2026-11-23T17:30:00+09:00",
+   "country": "EUR",
+   "title": "German Flash Manufacturing PMI",
+   "impact": "Medium",
+   "forecast": "54.1",
+   "previous": "54.2",
+   "gold": false
+  },
+  {
+   "time": "2026-11-23T17:30:00+09:00",
+   "country": "EUR",
+   "title": "German Flash Services PMI",
+   "impact": "Medium",
+   "forecast": "52.4",
+   "previous": "51.7",
+   "gold": false
+  },
+  {
+   "time": "2026-11-23T18:00:00+09:00",
+   "country": "EUR",
+   "title": "Flash Manufacturing PMI",
+   "impact": "Low",
+   "forecast": "52.7",
+   "previous": "52.4",
+   "gold": false
+  },
+  {
+   "time": "2026-11-23T18:00:00+09:00",
+   "country": "EUR",
+   "title": "Flash Services PMI",
+   "impact": "Low",
+   "forecast": "51.8",
+   "previous": "51.7",
+   "gold": false
+  },
+  {
+   "time": "2026-11-23T18:30:00+09:00",
+   "country": "GBP",
+   "title": "Flash Manufacturing PMI",
+   "impact": "Medium",
+   "forecast": "53.0",
+   "previous": "52.8",
+   "gold": false
+  },
+  {
+   "time": "2026-11-23T18:30:00+09:00",
+   "country": "GBP",
+   "title": "Flash Services PMI",
+   "impact": "Medium",
+   "forecast": "53.0",
+   "previous": "53.1",
+   "gold": false
+  },
+  {
+   "time": "2026-11-23T22:00:00+09:00",
+   "country": "GBP",
+   "title": "MPC Member Pill Speaks",
    "impact": "Low",
    "forecast": "",
    "previous": "",
    "gold": false
   },
   {
-   "time": "2026-11-18T00:00:00+09:00",
-   "country": "USD",
-   "title": "Business Inventories m/m",
+   "time": "2026-11-23T22:30:00+09:00",
+   "country": "CAD",
+   "title": "Corporate Profits q/q",
    "impact": "Low",
-   "forecast": "0.5%",
-   "previous": "0.4%",
+   "forecast": "",
+   "previous": "8.7%",
    "gold": false
   },
   {
-   "time": "2026-11-18T00:00:00+09:00",
+   "time": "2026-11-23T23:45:00+09:00",
    "country": "USD",
-   "title": "NAHB Housing Market Index",
-   "impact": "Low",
-   "forecast": "29",
-   "previous": "29",
+   "title": "Flash Manufacturing PMI",
+   "impact": "Medium",
+   "forecast": "54.5",
+   "previous": "56.0",
    "gold": false
   },
   {
-   "time": "2026-11-18T04:25:00+09:00",
+   "time": "2026-11-23T23:45:00+09:00",
+   "country": "USD",
+   "title": "Flash Services PMI",
+   "impact": "Medium",
+   "forecast": "55.6",
+   "previous": "57.9",
+   "gold": false
+  },
+  {
+   "time": "2026-11-24T06:00:00+09:00",
    "country": "USD",
    "title": "FOMC Member Williams Speaks",
    "impact": "Low",
@@ -488,7 +164,124 @@
    "gold": false
   },
   {
-   "time": "2026-11-18T06:30:00+09:00",
+   "time": "2026-11-24T09:30:00+09:00",
+   "country": "JPY",
+   "title": "Flash Manufacturing PMI",
+   "impact": "Low",
+   "forecast": "53.5",
+   "previous": "53.3",
+   "gold": false
+  },
+  {
+   "time": "2026-11-24T16:02:00+09:00",
+   "country": "CNY",
+   "title": "Foreign Direct Investment ytd/y",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "-4.3%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-24T18:00:00+09:00",
+   "country": "EUR",
+   "title": "独Ifo企業景況感指数",
+   "impact": "Low",
+   "forecast": "90.6",
+   "previous": "90.2",
+   "gold": false
+  },
+  {
+   "time": "2026-11-24T20:00:00+09:00",
+   "country": "GBP",
+   "title": "CBI Realized Sales",
+   "impact": "Low",
+   "forecast": "-24",
+   "previous": "-10",
+   "gold": false
+  },
+  {
+   "time": "2026-11-24T21:30:00+09:00",
+   "country": "GBP",
+   "title": "MPC Member Greene Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "gold": false
+  },
+  {
+   "time": "2026-11-24T22:15:00+09:00",
+   "country": "USD",
+   "title": "ADP Weekly Employment Change",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "23.8K",
+   "gold": false
+  },
+  {
+   "time": "2026-11-24T23:00:00+09:00",
+   "country": "CNY",
+   "title": "CB Leading Index m/m",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "-0.1%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-24T23:00:00+09:00",
+   "country": "EUR",
+   "title": "Belgian NBB Business Climate",
+   "impact": "Low",
+   "forecast": "-9.3",
+   "previous": "-9.8",
+   "gold": false
+  },
+  {
+   "time": "2026-11-24T23:00:00+09:00",
+   "country": "USD",
+   "title": "HPI m/m",
+   "impact": "Low",
+   "forecast": "0.2%",
+   "previous": "0.3%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-24T23:00:00+09:00",
+   "country": "USD",
+   "title": "S&P/CS Composite-20 HPI y/y",
+   "impact": "Low",
+   "forecast": "2.7%",
+   "previous": "2.7%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-25T00:00:00+09:00",
+   "country": "USD",
+   "title": "CB Consumer Confidence",
+   "impact": "Medium",
+   "forecast": "92.1",
+   "previous": "91.7",
+   "gold": true
+  },
+  {
+   "time": "2026-11-25T00:00:00+09:00",
+   "country": "USD",
+   "title": "Richmond Manufacturing Index",
+   "impact": "Low",
+   "forecast": "-3",
+   "previous": "-2",
+   "gold": false
+  },
+  {
+   "time": "2026-11-25T02:25:00+09:00",
+   "country": "CAD",
+   "title": "BOC Gov Macklem Speaks",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "",
+   "gold": false
+  },
+  {
+   "time": "2026-11-25T06:30:00+09:00",
    "country": "USD",
    "title": "API Weekly Statistical Bulletin",
    "impact": "Low",
@@ -497,642 +290,390 @@
    "gold": false
   },
   {
-   "time": "2026-11-18T06:45:00+09:00",
-   "country": "NZD",
-   "title": "PPI Input q/q",
-   "impact": "Low",
-   "forecast": "1.5%",
-   "previous": "2.9%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-18T06:45:00+09:00",
-   "country": "NZD",
-   "title": "PPI Output q/q",
-   "impact": "Low",
-   "forecast": "1.1%",
-   "previous": "1.6%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-18T08:39:00+09:00",
-   "country": "AUD",
-   "title": "MI Leading Index m/m",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-0.1%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-18T08:50:00+09:00",
+   "time": "2026-11-25T08:50:00+09:00",
    "country": "JPY",
-   "title": "貿易収支",
+   "title": "SPPI y/y",
    "impact": "Low",
-   "forecast": "-0.90T",
-   "previous": "-0.70T",
+   "forecast": "3.6%",
+   "previous": "3.7%",
    "gold": false
   },
   {
-   "time": "2026-11-18T09:30:00+09:00",
+   "time": "2026-11-25T09:30:00+09:00",
    "country": "AUD",
-   "title": "Wage Price Index q/q",
-   "impact": "Medium",
-   "forecast": "1.0%",
+   "title": "消費者物価指数（前月比）",
+   "impact": "High",
+   "forecast": "0.4%",
    "previous": "0.8%",
    "gold": false
   },
   {
-   "time": "2026-11-18T11:45:00+09:00",
-   "country": "EUR",
-   "title": "German Buba President Nagel Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-18T16:00:00+09:00",
-   "country": "GBP",
+   "time": "2026-11-25T09:30:00+09:00",
+   "country": "AUD",
    "title": "消費者物価指数（前年比）",
    "impact": "High",
-   "forecast": "3.6%",
-   "previous": "3.5%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-18T16:00:00+09:00",
-   "country": "GBP",
-   "title": "コアCPI（前年比）",
-   "impact": "Low",
-   "forecast": "2.8%",
-   "previous": "2.8%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-18T16:00:00+09:00",
-   "country": "GBP",
-   "title": "PPI Input m/m",
-   "impact": "Low",
-   "forecast": "0.8%",
-   "previous": "1.5%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-18T16:00:00+09:00",
-   "country": "GBP",
-   "title": "PPI Output m/m",
-   "impact": "Low",
-   "forecast": "0.6%",
-   "previous": "0.8%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-18T16:00:00+09:00",
-   "country": "GBP",
-   "title": "RPI y/y",
-   "impact": "Low",
-   "forecast": "4.1%",
-   "previous": "3.9%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-18T16:30:00+09:00",
-   "country": "GBP",
-   "title": "イングランド銀行総裁 発言",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-18T18:00:00+09:00",
-   "country": "EUR",
-   "title": "ECB Financial Stability Review",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-18T18:30:00+09:00",
-   "country": "GBP",
-   "title": "HPI y/y",
-   "impact": "Low",
-   "forecast": "0.7%",
-   "previous": "0.9%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-18T19:00:00+09:00",
-   "country": "EUR",
-   "title": "Final Core CPI y/y",
-   "impact": "Low",
-   "forecast": "2.5%",
-   "previous": "2.5%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-18T19:00:00+09:00",
-   "country": "EUR",
-   "title": "Final CPI y/y",
-   "impact": "Low",
-   "forecast": "4.0%",
-   "previous": "4.0%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-18T22:30:00+09:00",
-   "country": "CAD",
-   "title": "NHPI m/m",
-   "impact": "Low",
-   "forecast": "0.1%",
-   "previous": "-0.2%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-18T22:30:00+09:00",
-   "country": "USD",
-   "title": "建設許可件数",
-   "impact": "Low",
-   "forecast": "1.38M",
-   "previous": "1.40M",
-   "gold": false
-  },
-  {
-   "time": "2026-11-18T22:30:00+09:00",
-   "country": "USD",
-   "title": "住宅着工件数",
-   "impact": "Low",
-   "forecast": "1.25M",
-   "previous": "1.22M",
-   "gold": false
-  },
-  {
-   "time": "2026-11-18T23:25:00+09:00",
-   "country": "EUR",
-   "title": "ECB President Lagarde Speaks",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T00:00:00+09:00",
-   "country": "GBP",
-   "title": "イングランド銀行総裁 発言",
-   "impact": "High",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T00:00:00+09:00",
-   "country": "USD",
-   "title": "Pending Home Sales m/m",
-   "impact": "Low",
-   "forecast": "-2.0%",
-   "previous": "-7.3%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T00:30:00+09:00",
-   "country": "USD",
-   "title": "原油在庫",
-   "impact": "Low",
-   "forecast": "0.4M",
-   "previous": "4.7M",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T02:15:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Daly Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T02:30:00+09:00",
-   "country": "CAD",
-   "title": "Gov Council Member Gravelle Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T03:00:00+09:00",
-   "country": "NZD",
-   "title": "RBNZ Gov Breman Speaks",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T03:35:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Barr Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T04:00:00+09:00",
-   "country": "USD",
-   "title": "FOMC議事録",
-   "impact": "High",
-   "forecast": "",
-   "previous": "",
-   "gold": true
-  },
-  {
-   "time": "2026-11-19T04:30:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Williams Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T06:00:00+09:00",
-   "country": "USD",
-   "title": "TIC Long-Term Purchases",
-   "impact": "Low",
-   "forecast": "160.7B",
-   "previous": "279.2B",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T06:15:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Kashkari Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T06:45:00+09:00",
-   "country": "NZD",
-   "title": "貿易収支",
-   "impact": "Low",
-   "forecast": "-1650M",
-   "previous": "-1971M",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T08:50:00+09:00",
-   "country": "JPY",
-   "title": "Core Machinery Orders m/m",
-   "impact": "Low",
-   "forecast": "1.3%",
-   "previous": "5.2%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T09:30:00+09:00",
-   "country": "AUD",
-   "title": "Employment Change",
-   "impact": "High",
-   "forecast": "25.5K",
-   "previous": "-39.3K",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T09:30:00+09:00",
-   "country": "AUD",
-   "title": "失業率",
-   "impact": "High",
-   "forecast": "4.7%",
-   "previous": "4.7%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T18:00:00+09:00",
-   "country": "EUR",
-   "title": "Current Account",
-   "impact": "Low",
-   "forecast": "16.6B",
-   "previous": "8.7B",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T20:00:00+09:00",
-   "country": "EUR",
-   "title": "German Buba Monthly Report",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T20:00:00+09:00",
-   "country": "GBP",
-   "title": "CBI Industrial Order Expectations",
-   "impact": "Low",
-   "forecast": "-29",
-   "previous": "-32",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T21:15:00+09:00",
-   "country": "GBP",
-   "title": "MPC Member Dhingra Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T22:30:00+09:00",
-   "country": "CAD",
-   "title": "IPPI m/m",
-   "impact": "Low",
-   "forecast": "0.4%",
-   "previous": "2.0%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T22:30:00+09:00",
-   "country": "CAD",
-   "title": "RMPI m/m",
-   "impact": "Low",
-   "forecast": "0.9%",
-   "previous": "4.8%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T22:30:00+09:00",
-   "country": "EUR",
-   "title": "ECB President Lagarde Speaks",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T22:30:00+09:00",
-   "country": "USD",
-   "title": "フィラデルフィア連銀製造業景況指数",
-   "impact": "Medium",
-   "forecast": "20.6",
-   "previous": "20.9",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T22:30:00+09:00",
-   "country": "USD",
-   "title": "新規失業保険申請件数",
-   "impact": "Medium",
-   "forecast": "198K",
-   "previous": "200K",
-   "gold": true
-  },
-  {
-   "time": "2026-11-19T22:50:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Hammack Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-19T23:25:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Jefferson Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T00:00:00+09:00",
-   "country": "USD",
-   "title": "CB Leading Index m/m",
-   "impact": "Low",
-   "forecast": "0.0%",
-   "previous": "0.0%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T00:30:00+09:00",
-   "country": "USD",
-   "title": "Natural Gas Storage",
-   "impact": "Low",
-   "forecast": "25B",
-   "previous": "61B",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T00:46:00+09:00",
-   "country": "USD",
-   "title": "Mortgage Delinquencies",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "4.37%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T02:30:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Goolsbee Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T04:15:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Barr Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T06:00:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Barkin Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T08:30:00+09:00",
-   "country": "JPY",
-   "title": "National Core CPI y/y",
-   "impact": "Low",
-   "forecast": "2.3%",
-   "previous": "2.1%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T08:30:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Paulson Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T09:01:00+09:00",
-   "country": "GBP",
-   "title": "GfK Consumer Confidence",
-   "impact": "Low",
-   "forecast": "-22",
-   "previous": "-24",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T10:00:00+09:00",
-   "country": "CNY",
-   "title": "1-y Loan Prime Rate",
-   "impact": "Low",
-   "forecast": "3.00%",
-   "previous": "3.00%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T10:00:00+09:00",
-   "country": "CNY",
-   "title": "5-y Loan Prime Rate",
-   "impact": "Low",
-   "forecast": "3.50%",
-   "previous": "3.50%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T11:00:00+09:00",
-   "country": "NZD",
-   "title": "Credit Card Spending y/y",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "6.9%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T16:00:00+09:00",
-   "country": "EUR",
-   "title": "German PPI m/m",
-   "impact": "Low",
-   "forecast": "0.9%",
-   "previous": "1.9%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T16:00:00+09:00",
-   "country": "GBP",
-   "title": "小売売上高（前月比）",
-   "impact": "Medium",
-   "forecast": "0.0%",
-   "previous": "-0.4%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T16:00:00+09:00",
-   "country": "GBP",
-   "title": "Public Sector Net Borrowing",
-   "impact": "Low",
-   "forecast": "18.0B",
-   "previous": "24.5B",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T17:15:00+09:00",
-   "country": "EUR",
-   "title": "ECB President Lagarde Speaks",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T22:00:00+09:00",
-   "country": "EUR",
-   "title": "German Buba President Nagel Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T22:25:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Waller Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T22:30:00+09:00",
-   "country": "CAD",
-   "title": "コア小売売上高（前月比）",
-   "impact": "Low",
-   "forecast": "0.7%",
-   "previous": "1.2%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-20T22:30:00+09:00",
-   "country": "CAD",
-   "title": "小売売上高（前月比）",
-   "impact": "Low",
-   "forecast": "0.7%",
-   "previous": "1.2%",
-   "gold": false
-  },
-  {
-   "time": "2026-11-21T00:00:00+09:00",
-   "country": "EUR",
-   "title": "消費者信頼感指数",
-   "impact": "Low",
-   "forecast": "-18",
-   "previous": "-18",
-   "gold": false
-  },
-  {
-   "time": "2026-11-21T00:00:00+09:00",
-   "country": "USD",
-   "title": "ミシガン大学消費者信頼感指数（確報）",
-   "impact": "Medium",
-   "forecast": "51.7",
-   "previous": "51.0",
-   "gold": true
-  },
-  {
-   "time": "2026-11-21T00:00:00+09:00",
-   "country": "USD",
-   "title": "Revised UoM Inflation Expectations",
-   "impact": "Medium",
-   "forecast": "",
+   "forecast": "4.8%",
    "previous": "4.3%",
    "gold": false
   },
   {
-   "time": "2026-11-21T02:00:00+09:00",
+   "time": "2026-11-25T09:30:00+09:00",
+   "country": "AUD",
+   "title": "Trimmed Mean CPI m/m",
+   "impact": "High",
+   "forecast": "0.3%",
+   "previous": "0.3%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-25T09:30:00+09:00",
+   "country": "AUD",
+   "title": "Construction Work Done q/q",
+   "impact": "Low",
+   "forecast": "0.8%",
+   "previous": "-2.1%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-25T14:00:00+09:00",
+   "country": "JPY",
+   "title": "BOJ Core CPI y/y",
+   "impact": "Low",
+   "forecast": "2.5%",
+   "previous": "2.4%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-25T16:00:00+09:00",
+   "country": "EUR",
+   "title": "German Final GDP q/q",
+   "impact": "Low",
+   "forecast": "0.2%",
+   "previous": "0.2%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-25T18:00:00+09:00",
+   "country": "CHF",
+   "title": "UBS Economic Expectations",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "-15.3",
+   "gold": false
+  },
+  {
+   "time": "2026-11-25T19:42:00+09:00",
+   "country": "EUR",
+   "title": "German 10-y Bond Auction",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "3.37|1.1",
+   "gold": false
+  },
+  {
+   "time": "2026-11-25T22:30:00+09:00",
    "country": "USD",
-   "title": "President Trump Speaks",
+   "title": "コアPCEデフレーター（前月比）",
+   "impact": "High",
+   "forecast": "0.3%",
+   "previous": "0.3%",
+   "gold": true
+  },
+  {
+   "time": "2026-11-25T22:30:00+09:00",
+   "country": "USD",
+   "title": "GDP改定値（前期比）",
+   "impact": "High",
+   "forecast": "3.5%",
+   "previous": "3.4%",
+   "gold": true
+  },
+  {
+   "time": "2026-11-25T22:30:00+09:00",
+   "country": "USD",
+   "title": "Prelim GDP Price Index q/q",
    "impact": "Medium",
+   "forecast": "2.3%",
+   "previous": "2.3%",
+   "gold": true
+  },
+  {
+   "time": "2026-11-25T22:30:00+09:00",
+   "country": "USD",
+   "title": "新規失業保険申請件数",
+   "impact": "Medium",
+   "forecast": "201K",
+   "previous": "203K",
+   "gold": true
+  },
+  {
+   "time": "2026-11-25T22:30:00+09:00",
+   "country": "USD",
+   "title": "コア耐久財受注（前月比）",
+   "impact": "Low",
+   "forecast": "0.5%",
+   "previous": "0.5%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-25T22:30:00+09:00",
+   "country": "USD",
+   "title": "耐久財受注（前月比）",
+   "impact": "Low",
+   "forecast": "0.5%",
+   "previous": "1.8%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-25T22:30:00+09:00",
+   "country": "USD",
+   "title": "Personal Income m/m",
+   "impact": "Low",
+   "forecast": "0.4%",
+   "previous": "0.2%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-25T22:30:00+09:00",
+   "country": "USD",
+   "title": "Personal Spending m/m",
+   "impact": "Low",
+   "forecast": "0.4%",
+   "previous": "0.5%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-26T00:00:00+09:00",
+   "country": "USD",
+   "title": "新築住宅販売件数",
+   "impact": "Low",
+   "forecast": "649K",
+   "previous": "676K",
+   "gold": false
+  },
+  {
+   "time": "2026-11-26T00:30:00+09:00",
+   "country": "USD",
+   "title": "原油在庫",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "3.4M",
+   "gold": false
+  },
+  {
+   "time": "2026-11-26T02:00:00+09:00",
+   "country": "USD",
+   "title": "Natural Gas Storage",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "20B",
+   "gold": false
+  },
+  {
+   "time": "2026-11-26T04:00:00+09:00",
+   "country": "USD",
+   "title": "Beige Book",
+   "impact": "Low",
    "forecast": "",
    "previous": "",
    "gold": false
   },
   {
-   "time": "2026-11-21T02:15:00+09:00",
-   "country": "USD",
-   "title": "FOMC Member Cook Speaks",
+   "time": "2026-11-26T09:30:00+09:00",
+   "country": "AUD",
+   "title": "Private Capital Expenditure q/q",
+   "impact": "Low",
+   "forecast": "4.4%",
+   "previous": "-3.6%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-26T09:30:00+09:00",
+   "country": "AUD",
+   "title": "RBA Bulletin",
    "impact": "Low",
    "forecast": "",
    "previous": "",
+   "gold": false
+  },
+  {
+   "time": "2026-11-26T16:00:00+09:00",
+   "country": "EUR",
+   "title": "German GfK Consumer Climate",
+   "impact": "Low",
+   "forecast": "-29.4",
+   "previous": "-30.8",
+   "gold": false
+  },
+  {
+   "time": "2026-11-26T18:00:00+09:00",
+   "country": "EUR",
+   "title": "M3 Money Supply y/y",
+   "impact": "Low",
+   "forecast": "3.5%",
+   "previous": "3.5%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-26T18:00:00+09:00",
+   "country": "EUR",
+   "title": "Private Loans y/y",
+   "impact": "Low",
+   "forecast": "3.2%",
+   "previous": "3.1%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-26T19:30:00+09:00",
+   "country": "GBP",
+   "title": "BOE Financial Stability Report",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "gold": false
+  },
+  {
+   "time": "2026-11-26T19:30:00+09:00",
+   "country": "GBP",
+   "title": "FPC Meeting Minutes",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "gold": false
+  },
+  {
+   "time": "2026-11-26T19:30:00+09:00",
+   "country": "GBP",
+   "title": "FPC Statement",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "gold": false
+  },
+  {
+   "time": "2026-11-26T21:30:00+09:00",
+   "country": "EUR",
+   "title": "ECB Monetary Policy Meeting Accounts",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "gold": false
+  },
+  {
+   "time": "2026-11-26T22:00:00+09:00",
+   "country": "USD",
+   "title": "休場",
+   "impact": "Holiday",
+   "forecast": "",
+   "previous": "",
+   "gold": false
+  },
+  {
+   "time": "2026-11-27T08:30:00+09:00",
+   "country": "JPY",
+   "title": "Tokyo Core CPI y/y",
+   "impact": "Medium",
+   "forecast": "2.9%",
+   "previous": "2.6%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-27T16:45:00+09:00",
+   "country": "EUR",
+   "title": "French Consumer Spending m/m",
+   "impact": "Low",
+   "forecast": "0.2%",
+   "previous": "-0.5%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-27T16:45:00+09:00",
+   "country": "EUR",
+   "title": "French Final Private Payrolls q/q",
+   "impact": "Low",
+   "forecast": "-0.1%",
+   "previous": "-0.1%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-27T16:45:00+09:00",
+   "country": "EUR",
+   "title": "French Prelim CPI m/m",
+   "impact": "Low",
+   "forecast": "-0.1%",
+   "previous": "0.4%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-27T16:45:00+09:00",
+   "country": "EUR",
+   "title": "French Prelim GDP q/q",
+   "impact": "Low",
+   "forecast": "-0.1%",
+   "previous": "-0.1%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-27T17:00:00+09:00",
+   "country": "EUR",
+   "title": "Spanish Flash CPI y/y",
+   "impact": "Low",
+   "forecast": "4.8%",
+   "previous": "4.9%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-27T17:55:00+09:00",
+   "country": "EUR",
+   "title": "German Unemployment Change",
+   "impact": "Low",
+   "forecast": "5K",
+   "previous": "4K",
+   "gold": false
+  },
+  {
+   "time": "2026-11-27T19:33:00+09:00",
+   "country": "EUR",
+   "title": "Italian 10-y Bond Auction",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "gold": false
+  },
+  {
+   "time": "2026-11-27T21:40:00+09:00",
+   "country": "EUR",
+   "title": "German Buba President Nagel Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "gold": false
+  },
+  {
+   "time": "2026-11-27T22:30:00+09:00",
+   "country": "CAD",
+   "title": "Current Account",
+   "impact": "Low",
+   "forecast": "9.6B",
+   "previous": "8.8B",
+   "gold": false
+  },
+  {
+   "time": "2026-11-27T22:30:00+09:00",
+   "country": "USD",
+   "title": "Goods Trade Balance",
+   "impact": "Low",
+   "forecast": "-134.4B",
+   "previous": "-134.9B",
+   "gold": false
+  },
+  {
+   "time": "2026-11-27T22:30:00+09:00",
+   "country": "USD",
+   "title": "Prelim Wholesale Inventories m/m",
+   "impact": "Low",
+   "forecast": "0.7%",
+   "previous": "0.6%",
    "gold": false
   }
  ]
