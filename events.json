@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:07:32.853165+09:00",
+ "updated": "2026-11-24T14:42:22.808695+09:00",
  "events": [
   {
    "time": "2026-11-23T06:45:00+09:00",
@@ -128,7 +128,7 @@
    "gold": false
   },
   {
-   "time": "2026-11-23T22:30:00+09:00",
+   "time": "2026-11-23T22:32:00+09:00",
    "country": "CAD",
    "title": "Corporate Profits q/q",
    "impact": "Low",
@@ -173,20 +173,11 @@
    "gold": false
   },
   {
-   "time": "2026-11-24T16:02:00+09:00",
-   "country": "CNY",
-   "title": "Foreign Direct Investment ytd/y",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-4.3%",
-   "gold": false
-  },
-  {
    "time": "2026-11-24T18:00:00+09:00",
    "country": "EUR",
    "title": "独Ifo企業景況感指数",
    "impact": "Low",
-   "forecast": "90.6",
+   "forecast": "90.5",
    "previous": "90.2",
    "gold": false
   },
@@ -195,7 +186,7 @@
    "country": "GBP",
    "title": "CBI Realized Sales",
    "impact": "Low",
-   "forecast": "-24",
+   "forecast": "-27",
    "previous": "-10",
    "gold": false
   },
@@ -231,7 +222,7 @@
    "country": "EUR",
    "title": "Belgian NBB Business Climate",
    "impact": "Low",
-   "forecast": "-9.3",
+   "forecast": "-9.4",
    "previous": "-9.8",
    "gold": false
   },
@@ -258,7 +249,7 @@
    "country": "USD",
    "title": "CB Consumer Confidence",
    "impact": "Medium",
-   "forecast": "92.1",
+   "forecast": "92.4",
    "previous": "91.7",
    "gold": true
   },
@@ -267,7 +258,7 @@
    "country": "USD",
    "title": "Richmond Manufacturing Index",
    "impact": "Low",
-   "forecast": "-3",
+   "forecast": "-2",
    "previous": "-2",
    "gold": false
   },
@@ -312,7 +303,7 @@
    "country": "AUD",
    "title": "消費者物価指数（前年比）",
    "impact": "High",
-   "forecast": "4.8%",
+   "forecast": "4.7%",
    "previous": "4.3%",
    "gold": false
   },
@@ -400,15 +391,6 @@
   {
    "time": "2026-11-25T22:30:00+09:00",
    "country": "USD",
-   "title": "新規失業保険申請件数",
-   "impact": "Medium",
-   "forecast": "201K",
-   "previous": "203K",
-   "gold": true
-  },
-  {
-   "time": "2026-11-25T22:30:00+09:00",
-   "country": "USD",
    "title": "コア耐久財受注（前月比）",
    "impact": "Low",
    "forecast": "0.5%",
@@ -420,7 +402,7 @@
    "country": "USD",
    "title": "耐久財受注（前月比）",
    "impact": "Low",
-   "forecast": "0.5%",
+   "forecast": "0.7%",
    "previous": "1.8%",
    "gold": false
   },
@@ -443,11 +425,20 @@
    "gold": false
   },
   {
+   "time": "2026-11-25T22:30:00+09:00",
+   "country": "USD",
+   "title": "新規失業保険申請件数",
+   "impact": "Low",
+   "forecast": "201K",
+   "previous": "203K",
+   "gold": false
+  },
+  {
    "time": "2026-11-26T00:00:00+09:00",
    "country": "USD",
    "title": "新築住宅販売件数",
    "impact": "Low",
-   "forecast": "649K",
+   "forecast": "650K",
    "previous": "676K",
    "gold": false
   },
@@ -465,7 +456,7 @@
    "country": "USD",
    "title": "Natural Gas Storage",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "-19B",
    "previous": "20B",
    "gold": false
   },
@@ -483,7 +474,7 @@
    "country": "AUD",
    "title": "Private Capital Expenditure q/q",
    "impact": "Low",
-   "forecast": "4.4%",
+   "forecast": "4.5%",
    "previous": "-3.6%",
    "gold": false
   },
@@ -573,7 +564,7 @@
    "country": "JPY",
    "title": "Tokyo Core CPI y/y",
    "impact": "Medium",
-   "forecast": "2.9%",
+   "forecast": "3.0%",
    "previous": "2.6%",
    "gold": false
   },
@@ -582,7 +573,7 @@
    "country": "EUR",
    "title": "French Consumer Spending m/m",
    "impact": "Low",
-   "forecast": "0.2%",
+   "forecast": "0.1%",
    "previous": "-0.5%",
    "gold": false
   },
@@ -600,7 +591,7 @@
    "country": "EUR",
    "title": "French Prelim CPI m/m",
    "impact": "Low",
-   "forecast": "-0.1%",
+   "forecast": "-0.2%",
    "previous": "0.4%",
    "gold": false
   },
@@ -618,7 +609,7 @@
    "country": "EUR",
    "title": "Spanish Flash CPI y/y",
    "impact": "Low",
-   "forecast": "4.8%",
+   "forecast": "4.7%",
    "previous": "4.9%",
    "gold": false
   },
@@ -654,7 +645,7 @@
    "country": "CAD",
    "title": "Current Account",
    "impact": "Low",
-   "forecast": "9.6B",
+   "forecast": "9.5B",
    "previous": "8.8B",
    "gold": false
   },
@@ -663,7 +654,7 @@
    "country": "USD",
    "title": "Goods Trade Balance",
    "impact": "Low",
-   "forecast": "-134.4B",
+   "forecast": "-135.9B",
    "previous": "-134.9B",
    "gold": false
   },
@@ -672,7 +663,7 @@
    "country": "USD",
    "title": "Prelim Wholesale Inventories m/m",
    "impact": "Low",
-   "forecast": "0.7%",
+   "forecast": "0.5%",
    "previous": "0.6%",
    "gold": false
   }
