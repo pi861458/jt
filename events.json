@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:42:22.808695+09:00",
+ "updated": "2026-11-25T13:44:09.277713+09:00",
  "events": [
   {
    "time": "2026-11-23T06:45:00+09:00",
@@ -209,7 +209,7 @@
    "gold": false
   },
   {
-   "time": "2026-11-24T23:00:00+09:00",
+   "time": "2026-11-24T22:51:00+09:00",
    "country": "CNY",
    "title": "CB Leading Index m/m",
    "impact": "Low",
@@ -362,6 +362,15 @@
    "gold": false
   },
   {
+   "time": "2026-11-25T21:25:00+09:00",
+   "country": "USD",
+   "title": "FOMC Member Bowman Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "gold": false
+  },
+  {
    "time": "2026-11-25T22:30:00+09:00",
    "country": "USD",
    "title": "コアPCEデフレーター（前月比）",
@@ -447,7 +456,7 @@
    "country": "USD",
    "title": "原油在庫",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "2.0M",
    "previous": "3.4M",
    "gold": false
   },
@@ -628,7 +637,7 @@
    "title": "Italian 10-y Bond Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "4.49|1.6",
    "gold": false
   },
   {
