@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:44:09.277713+09:00",
+ "updated": "2026-11-26T12:53:18.170180+09:00",
  "events": [
   {
    "time": "2026-11-23T06:45:00+09:00",
@@ -353,7 +353,7 @@
    "gold": false
   },
   {
-   "time": "2026-11-25T19:42:00+09:00",
+   "time": "2026-11-25T19:32:00+09:00",
    "country": "EUR",
    "title": "German 10-y Bond Auction",
    "impact": "Low",
@@ -443,6 +443,15 @@
    "gold": false
   },
   {
+   "time": "2026-11-25T23:15:00+09:00",
+   "country": "GBP",
+   "title": "Monetary Policy Report Hearings",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "",
+   "gold": false
+  },
+  {
    "time": "2026-11-26T00:00:00+09:00",
    "country": "USD",
    "title": "新築住宅販売件数",
@@ -521,6 +530,15 @@
    "impact": "Low",
    "forecast": "3.2%",
    "previous": "3.1%",
+   "gold": false
+  },
+  {
+   "time": "2026-11-26T18:15:00+09:00",
+   "country": "EUR",
+   "title": "Euro Summit",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
    "gold": false
   },
   {
